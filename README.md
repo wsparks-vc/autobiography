@@ -1,7 +1,7 @@
 # Autobiography
 This is a log of the things that I do in my professional existence.
 
-- Webinars/Webcasts:
+- Webcasts:
     - VulnCheck (2025-08-26) - [Exploitation Trends in the First Half of 2025](https://wwv.vulncheck.com/1h-state-of-exploitation-webinar)
     - BrakeSec (2026-01-21) - [Wade Sparks and Patrick Garrity discuss the CVE process, working w/ researchers, & the future of CVE](https://www.youtube.com/live/q-Eq1baVm-o)
     - runZero (2026-02-18) - [KEVology 101: Observing Exploit Trajectories in the KEV Collider](https://www.runzero.com/resources/runzero-hour-27/)
