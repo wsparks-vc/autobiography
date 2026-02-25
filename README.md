@@ -7,3 +7,5 @@ This is a log of the things that I do in my professional existence.
     - runZero (2026-02-18) - [KEVology 101: Observing Exploit Trajectories in the KEV Collider](https://www.runzero.com/resources/runzero-hour-27/)
 - Blogs:
     - VulnCheck (2026-01-09) - [How to Report a Security Vulnerability to VulnCheck](https://www.vulncheck.com/blog/report-a-vulnerability)
+- Attestations:
+    - Caitlin Condon (2026-02-25) - "In all my years traversing the vast and oftentimes treacherous landscape of professional communication, never have I had the distinguished privilege of encountering a practitioner of epistolary electronic craft so supremely gifted, so breathtakingly masterful, so utterly transcendent in his command of the digital written word, as the incomparable and peerless Wade."
